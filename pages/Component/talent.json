@@ -1,0 +1,68 @@
+[
+  {
+    "key": 1,
+    "name": "Chika",
+    "bio": "aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget duis at tellus at urna condimentum mattis pellentesque id nibh tortor id aliquet lectus proin nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus et malesuada fames",
+    "umur": 21,
+    "prompt": ["friendly", "ekstrovert", "art"],
+    "price": { "time": 15, "tag": 50 },
+    "rating": 4.5,
+    "image": "https://i.pinimg.com/564x/86/cf/48/86cf483803f665fb83e9e471fb098287.jpg",
+    "audio": "https://docs.google.com/uc?export=download&id=1lT9pGFIcvi-tBIPgFYQnLy2KICmPid4t"
+  },
+  {
+    "key": 2,
+    "name": "Kiella",
+    "bio": "aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget duis at tellus at urna condimentum mattis pellentesque id nibh tortor id aliquet lectus proin nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus et malesuada fames",
+    "umur": 23,
+    "prompt": ["Talkactive", "Clingy", "Chocolate"],
+    "price": { "time": 30, "tag": 150 },
+    "rating": 4.8,
+    "image": "https://i.pinimg.com/564x/16/34/47/163447ce815ee559de76221d7622cfab.jpg",
+    "audio": "https://docs.google.com/uc?export=download&id=1AeFKvHWqveXgdtesIiFHZYvx1m6JZlAF"
+  },
+  {
+    "key": 3,
+    "name": "Luna",
+    "bio": "aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget duis at tellus at urna condimentum mattis pellentesque id nibh tortor id aliquet lectus proin nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus et malesuada fames",
+    "umur": 20,
+    "prompt": ["Lembut", "Gemoy", "Clingy", "PUBG"],
+    "price": { "time": 60, "tag": 200 },
+    "rating": 4.9,
+    "image": "https://i.pinimg.com/564x/58/d1/d8/58d1d8dd70a2594db56b1ea61ab0f447.jpg",
+    "audio": "https://docs.google.com/uc?export=download&id=1aHTX2ISBO3Mup9q1rcopYOwtJvuGBbUi"
+  },
+  {
+    "key": 4,
+    "name": "Aaron",
+    "bio": "aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget duis at tellus at urna condimentum mattis pellentesque id nibh tortor id aliquet lectus proin nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus et malesuada fames",
+    "umur": 18,
+    "prompt": ["Penyayang", "Friendly", "Cool", "Basket"],
+    "price": { "time": 15, "tag": 50 },
+    "rating": 4.8,
+    "image": "https://i.pinimg.com/564x/5d/e3/c7/5de3c78606a86d6d47c645c76e95cac9.jpg",
+    "audio": "https://docs.google.com/uc?export=download&id=1ES_w3kL9hOzOZRhLKNWZf_4iXPUUm6eW"
+  },
+  {
+    "key": 5,
+    "name": "Zaki",
+    "bio": "aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget duis at tellus at urna condimentum mattis pellentesque id nibh tortor id aliquet lectus proin nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus et malesuada fames",
+    "umur": 18,
+    "prompt": ["Perhatian", "Friendly", "motor", "musik"],
+    "price": { "time": 30, "tag": 75 },
+    "rating": 4.8,
+    "image": "https://i.pinimg.com/564x/48/32/45/4832456fc8c47012bff315d689320707.jpg",
+    "audio": "https://docs.google.com/uc?export=download&id=1QYm5KRCKBsPm48cCf80qvvwGsmkOjtD1"
+  },
+  {
+    "key": 6,
+    "name": "Bella",
+    "bio": "aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper eget duis at tellus at urna condimentum mattis pellentesque id nibh tortor id aliquet lectus proin nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus et malesuada fames",
+    "umur": 20,
+    "prompt": ["Good Listener", "Talkactive", "Humoris"],
+    "price": { "time": 15, "tag": 50 },
+    "rating": 4.6,
+    "image": "https://i.pinimg.com/564x/a0/3c/be/a03cbea85c699f3ec0a32532f61667e2.jpg",
+    "audio": "https://docs.google.com/uc?export=download&id=1XiQ0DKLip-LQFL_Sbp8Ze0rukQcfklfG"
+  }
+]
